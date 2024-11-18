@@ -55,4 +55,4 @@ $ pip install -r requirement.txt
 **OS** : Windows10  
 **GPU** : GTX 1660 Super  
 **RAM** : 16GB  
-Python 3.10+  
+Python 3.10.8
