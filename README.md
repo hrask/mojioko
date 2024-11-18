@@ -50,7 +50,7 @@ $ pip install -r requirement.txt
 `realtime_log` 文字起こしの内容表示のON/OFF  
 
 ---
-#### 動作環境
+#### 動作確認環境
 
 **OS** : Windows10  
 **GPU** : GTX 1660 Super  
